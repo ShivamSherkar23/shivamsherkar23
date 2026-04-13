@@ -1,66 +1,58 @@
-# 👋 Hi, I'm Shivam
+# Shivam Sherkar
 
-🚀 DevOps Engineer | SRE | Backend (Python)  
-
----
-
-## 🧠 About Me
-
-- 💼 Working on **microservices, Kubernetes, and cloud-native systems**
-- 🔁 Strong focus on **CI/CD, automation, and reliability engineering**
-- 🐍 Backend experience with **Python (async, APIs, automation)**
-- ☁️ Hands-on with **AWS, Terraform, Docker, and GitLab CI/CD**
-- 🔍 Interested in **system design, observability, and performance tuning**
+DevOps Engineer | Site Reliability | Backend (Python)
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### 🚀 DevOps & Infra
-- Kubernetes (StatefulSets, Networking, Helm)
-- Docker & Containerization
-- Terraform (Infra as Code)
-- GitLab CI/CD (pipelines, versioning, release workflows)
+DevOps/SRE engineer focused on building and operating reliable, scalable systems.  
+Experienced in Kubernetes-based microservices, CI/CD design, and backend automation.
 
-### ☁️ Cloud
-- AWS (core services, deployments, infra design)
-
-### 🧑‍💻 Backend & Scripting
-- Python (automation, fastapi)
-- REST APIs, authentication flows, tracing
-
-### 📊 Observability
-- Logging, tracing, debugging production systems
+Strong interest in system design, distributed systems, and deep debugging.
 
 ---
 
-## 🔥 What I Work On
+## Tech Stack
 
-- ⚙️ Designing **CI/CD pipelines** with versioning strategies
-- 📦 Managing **Helm charts & OCI registries**
-- 🔐 Authentication systems & session handling in distributed apps
-- 📡 Deep debugging: DNS, cookies, networking, async flows
-- 🧾 Automating workflows using Python (CSV/JSON → API pipelines)
+**Infrastructure & DevOps**
+- Kubernetes, Helm, Docker
+- Terraform (Infrastructure as Code)
+- GitLab CI/CD (pipelines, release workflows)
 
----
+**Cloud**
+- AWS
 
-## 📈 Current Focus
+**Backend**
+- Python (automation, FastAPI, async)
+- REST APIs, authentication, tracing
 
-- 📚 Becoming stronger in **System Design + SRE principles**
-- ⚡ Improving **debugging skills in distributed environments**
-- 🧱 Building more **backend systems in Python**
-- 🔍 Exploring **eBPF & advanced networking**
-
----
-
-## 🤝 Let's Connect
-
-- 💬 Open to discussions on DevOps, SRE, backend systems
-- 📫 Reach me: [shivam23sherkar@gmail.com]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/shivam-sherkar-b22a8487/]
+**Systems & Observability**
+- Linux, networking, DNS
+- Logging and production debugging
 
 ---
 
-## ⚡ Fun Fact
+## Work Highlights
 
-I enjoy debugging production issues more than writing code — because that’s where real engineering happens.
+- Designed CI/CD pipelines with structured versioning (RC → Release → Patch)
+- Managed Helm charts and OCI-based artifact workflows
+- Built automation pipelines integrating CSV/JSON with APIs
+- Debugged distributed system issues across networking, auth, and async layers
+- Worked on Kubernetes networking and service communication flows
+
+---
+
+## Current Focus
+
+- System design and SRE practices
+- Advanced debugging in distributed systems
+- Backend development in Python
+- Exploring eBPF and low-level networking
+
+---
+
+## Contact
+
+- Email: shivam23sherkar@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shivam-sherkar-b22a8487/
